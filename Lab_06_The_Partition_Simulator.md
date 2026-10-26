@@ -5,6 +5,8 @@
 **Due:** February 28, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab06-the-partition-simulator)
+
 ## Purpose
 
 Simulate two replicas before, during, and after a network partition. Implement explicit CP and AP policies, then measure both the response behavior and key movement under consistent hashing.
